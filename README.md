@@ -1,4 +1,3 @@
-![import poster](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/poster.jpg)
 
 ## 사전 학습 자료
 
